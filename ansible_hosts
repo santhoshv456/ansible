@@ -7,5 +7,5 @@ dev2 ansible_host=34.207.198.140
 qa1 ansible_host=18.207.194.
 
 [first]
-[dev]
-[qa]
+dev1
+qa1
