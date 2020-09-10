@@ -14,3 +14,6 @@ qa1
 [groupofgroups:children]
 dev
 first
+
+[devsubset]
+dev[1:2]
