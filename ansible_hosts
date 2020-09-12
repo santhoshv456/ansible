@@ -17,6 +17,3 @@ first
 
 [devsubset]
 dev[1:2]
-
-[local]
-localhost              ansible_connection=local     ansible_python_interpreter=/usr/local/bin/python3
