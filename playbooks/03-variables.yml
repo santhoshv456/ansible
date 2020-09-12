@@ -3,5 +3,5 @@
   vars:
     variable1: "PlayBookValue"
   tasks:
-    - name: Variable Value
+    - name: Variable
     - debug: msg="Value is {{variable1}}"
