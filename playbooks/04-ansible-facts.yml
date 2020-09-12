@@ -1,0 +1,5 @@
+---
+- hosts: qa
+  tasks:
+    - name: Kernal
+      debug: msg="{{ansible_kernal}}"
