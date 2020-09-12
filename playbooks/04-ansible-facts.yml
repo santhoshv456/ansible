@@ -3,3 +3,7 @@
   tasks:
     - name: Kernal
       debug: msg="{{ ansible_kernel }}"
+    - name: Kernal
+      debug: msg="{{ ansible_hostname }}"
+    - name: Kernal
+      debug: msg="{{ ansible_distribution }}"
