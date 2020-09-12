@@ -2,4 +2,4 @@
 - hosts: qa
   tasks:
     - name: Kernal
-      debug: msg="{{ansible_kernal}}"
+      debug: msg="{{ ansible_kernel }}"
