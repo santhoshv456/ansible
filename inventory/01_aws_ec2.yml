@@ -4,3 +4,5 @@ region:
 keyed_groups:
   - prefix: arch
     key: 'architecture'
+  - prefix: tag
+    key: 'tags'
