@@ -6,3 +6,5 @@ keyed_groups:
     key: 'architecture'
   - prefix: tag
     key: 'tags'
+  - prefix: aws_region
+    key: placement.region
