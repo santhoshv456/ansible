@@ -8,3 +8,5 @@ keyed_groups:
     key: 'tags'
   - prefix: aws_region
     key: placement.region
+  - key: tags.Environment
+    seperator: ''
